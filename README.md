@@ -52,7 +52,7 @@ Following inferences can be drawn from the dashboard;
     Oceania = 32767 deaths
    
   
-  ### [3] Viual Overview of the concentration of cases worldwide 
+  ### [3] Visual Overview of the concentration of cases worldwide 
   
 
  ### [4] Among the major countries selected Australia had the most cases and Africa had the least

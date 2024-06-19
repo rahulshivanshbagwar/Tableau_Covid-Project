@@ -40,7 +40,7 @@ Following inferences can be drawn from the dashboard;
   
 
 
-           thus, higher number of customers are neutral/unsatisfied.
+           
            
 ### [2] Europe Continent has the Highest Death rate.
 

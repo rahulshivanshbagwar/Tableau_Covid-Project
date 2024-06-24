@@ -1,7 +1,6 @@
 # Covid Cases Dashboard
 
 
-
 ## Problem Statement
 
 This dashboard helps us to understand how the deadly disease that shook the world effected countries across the world. And how the infection spread in various countries and how many people could not make it. This dashboard was made in tableau where I imported data by connecting my sql server through Microsoft SQL server Management studio
